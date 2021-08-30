@@ -1,4 +1,4 @@
-# ParticleExplosion
+# Blocked
 
 **Blocked** is a 2D platformer written in C++.  
 It's a simple showcase, mainly focused on finding a good way to build a easy to use framework for a multilevel game.  
